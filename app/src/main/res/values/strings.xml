@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PictureToPdf</string>
+
+    <string name="image_select">Images</string>
+    <string name="setting">Setting</string>
+    <string name="camera">Camera</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="ok">OK</string>
+    <string name="error_message">There is something wrong. \nPlease try again</string>
+    <string name="success_message">PDF file generated successfully.\nChoose following action</string>
+    <string name="open">Open</string>
+    <string name="share">Share</string>
+    <string name="generating_pdf">Generating Pdf…</string>
+    <string name="convert_to_pdf">Convert to PDF</string>
+    <string name="todo">TODO</string>
+</resources>
